@@ -1,0 +1,16 @@
+0
+null#0#0#0#0#0#0#False#False#0#0#0#0#0#0
+null_solid#0#0#0#0#0#0#False#True#0#0#0#0#0#0
+dirt#1#1#1#1#1#1#True#True#0#0#0#0#0#0
+grass#33#33#33#33#1#3#True#True#0#0#0#0#0#0
+wood#4#4#4#4#4#4#True#True#0#0#0#0#0#0
+stone_top#1#1#1#1#1#2#True#True#0#0#0#0#0#0
+cobblestone#5#5#5#5#5#5#True#True#1#1#1#1#1#0
+tree_top#6#6#6#6#6#6#False#True#0#0#0#0#0#0
+ice#8#8#8#8#8#8#True#True#0#0#0#0#0#2
+dirt_moss#36#36#36#36#36#36#True#True#0#0#0#0#0#0
+dirt_moss2#34#34#34#34#34#34#True#True#0#0#0#0#0#0
+ladder_front#7#1#1#1#1#3#True#True#1#0#0#0#0#0
+grass_stand#64#0#0#0#0#0#False#False#0#0#0#0#0#0
+grass2#33#33#33#33#1#35#True#True#0#0#0#0#0#0
+boulder#37#37#37#37#37#37#True#True#0#0#0#0#0#0
